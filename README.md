@@ -5,6 +5,7 @@ Overview:
 SET is a comprehensive subdomain enumeration and reconnaissance tool designed to assist penetration testers and cybersecurity professionals in their network assessments. The tool integrates multiple well-known utilities to fetch, analyze, and visualize potential attack vectors in a target domain.
 
 # Features:
+
 Harvests subdomains using assetfinder.
 Probes for alive domains with httprobe.
 Checks for potential subdomain takeovers with subjack.
