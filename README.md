@@ -18,7 +18,7 @@ SET is a comprehensive subdomain enumeration and reconnaissance tool designed to
 ## Usage:
 
 ```bash
-./enum_script.sh <target_domain>
+./set.sh <target_domain>
 ````
 
 Upon execution, users can select which tools to run, providing a customizable experience tailored to the user's needs.
